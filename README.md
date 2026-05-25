@@ -106,6 +106,12 @@ Page 3 is a deep dive into contract type, payment method,
 internet service and tenure — all filterable by health tier 
 using a slicer.
 
+## Dashboard Screenshots
+
+![Executive Summary](Executive%20Summary1.png)
+![Health Tier Analysis](Health%20tier%20summary.png)
+![Deep Dive Analysis](deep%20dive%20analysis.png)
+
 ---
 
 ## Project files
